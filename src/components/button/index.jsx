@@ -7,7 +7,7 @@ export default function Button() {
     const { t  } = useTranslation(); 
     return (
         <button>
-            <p>{t('Download', {lng: langContext.lang})}</p>
+            {t('Download', {lng: langContext.lang})}
         </button>
     );
 }

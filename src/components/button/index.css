@@ -2,14 +2,19 @@ button {
     width: 200px;
     height: 60px;
     flex-shrink: 0;
+    border: 1px solid blue;
     border-radius: 100px;
-     
+    color: #3C4EF3;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 100px;
 }
-button p {
-color: #3C4EF3;
-font-family: Poppins;
-font-size: 14px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+button:hover {
+    background-color: #6f77bc;
+    color: white;
 }
+
+

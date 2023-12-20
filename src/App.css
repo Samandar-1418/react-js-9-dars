@@ -90,7 +90,7 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 
 }
 .img-container {
@@ -107,3 +107,7 @@ flex-shrink: 0;
     align-items: center;
     gap: 50px;
 }
+.btn-conntainer {
+    display: flex;
+    align-items: center;
+gap: 30px;}
