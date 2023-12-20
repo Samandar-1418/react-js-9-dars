@@ -1,0 +1,45 @@
+{
+    "eng":{
+        "translation": {
+            "Home":"Home",
+            "About":"About us ",
+            "Works":"How it works ",
+            "Services":"  Services ",
+            "Contact":"Contact",
+            "Started":"Get Started",
+            "Title":"Connecting all your banking needs",
+            "text":"A smart mobile application you can control your business needs",
+            "Download":"Download App"
+             }
+        
+    },
+    "uz":{
+        "translation":{
+            "Home":"Bosh sahifa",
+            "About":"Biz haqimizda ",
+            "Works":"U qanday ishlaydi ",
+            "Services":"  Xizmatlar ",
+            "Contact":"Aloqa",
+            "Started":"Boshlash",
+            "Title":"Barcha bank ehtiyojlaringizni birlashtiring",
+            "text":"Aqlli mobil ilova siz o'z biznes ehtiyojlaringizni nazorat qilishingiz mumkin",
+            "Download":"Ilovani yuklab oling"
+        }
+        
+    },
+    "ru":{
+        "translation":{
+            "Home":"Домашняя страница",
+            "About":"o нас ",
+            "Works":"Как это работает ",
+            "Services":"Услуги ",
+            "Contact":"Коммуникация",
+            "Started":"Начинать",
+            "Title":"Объединение всех ваших банковских потребностей",
+            "text":"Умное мобильное приложение, позволяющее контролировать потребности вашего бизнеса",
+            "Download":"Скачать приложение"
+        }
+       
+    }
+
+}

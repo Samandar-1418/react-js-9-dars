@@ -1,0 +1,15 @@
+button {
+    width: 200px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 100px;
+     
+}
+button p {
+color: #3C4EF3;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}

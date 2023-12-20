@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-container {
+width: 100%;
+width: 1110px;
+height: 42px;
+flex-shrink: 0;
+margin: 30px auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.header-container select{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid blue;
+    outline: none;
+    color: #3C4EF3;
+}
+.header-container ul li {
+    list-style: none;
+}
+.header-container ul {
+    display: flex;
+    align-items:center;
+    gap: 30px;
+    color: #1E255E;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+}
+.header-container span {
+    width: 130px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #3C4EF3;
+     padding-top: 13px;
+     cursor: pointer;
+}
+.header-container span p {
+ color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.header-container ul li:hover {
+    transform: translate(1.1px,1.1px);
+    color:aqua;
+}
+.header-container span:hover {
+    transform: translate(1.1px,1.1px);
+    background-color:rgb(69, 59, 182);
+
+}
+
+.main-container {
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 100px auto;
+    padding-left: 190px;
+}
+.main-container h1 {
+    width: 540px;
+    color: #1E255E;
+    font-family: Poppins;
+    font-size: 76px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 50px;
+
+}
+.main-container p {
+    width: 403.945px;
+    color: rgba(30, 37, 94, 0.70);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 200px;
+
+}
+.img-container {
+    width: 794px;
+height: 682px;
+flex-shrink: 0;
+}
+.img-container img {
+    width: 90%;
+    height: 400px;
+}
+.hero-container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
